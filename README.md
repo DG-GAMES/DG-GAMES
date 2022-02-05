@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DG-GAMES
+- 👀 I’m interested in making ai
+- 🌱 I’m currently learning javascript and tensorflow
